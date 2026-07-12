@@ -1,0 +1,9 @@
+# Es wird ausschließlich die fertig gerenderte Website (docs/) veröffentlicht.
+# Alle Quelldateien, Rohdaten und Skripte bleiben lokal.
+/*
+!/docs
+!/.gitignore
+!/README.md
+
+/.quarto/
+**/*.quarto_ipynb

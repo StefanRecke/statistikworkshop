@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 200" role="img" aria-label="Hinweis: An dieser Stelle folgen Folien oder Videomaterial im Kurs">
+  <title>Folien- / Video-Platzhalter</title>
+
+  <!-- Karte -->
+  <rect x="4" y="4" width="632" height="192" rx="16"
+        fill="#fbfaf7" stroke="#e5e2da" stroke-width="2"/>
+
+  <!-- Akzentstreifen links -->
+  <rect x="4" y="4" width="8" height="192" rx="4" fill="#2780e3"/>
+
+  <!-- Icon: Präsentation / Play -->
+  <g transform="translate(48 58)">
+    <!-- Leinwand / Folie -->
+    <rect x="0" y="0" width="104" height="70" rx="8"
+          fill="#eef5ff" stroke="#9ec6f4" stroke-width="3"/>
+    <!-- Ständer -->
+    <path d="M52 70 L52 84 M38 92 L52 84 L66 92"
+          fill="none" stroke="#59677a" stroke-width="4"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Play-Dreieck -->
+    <path d="M42 22 L72 35 L42 48 Z" fill="#2780e3"/>
+  </g>
+
+  <!-- Text -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="196" y="108" font-size="30" font-weight="700" fill="#212529">Folien &amp; Video</text>
+  </g>
+
+  <!-- kleiner Marker rechts oben -->
+  <g transform="translate(548 30)">
+    <rect x="0" y="0" width="60" height="26" rx="13" fill="#2780e3"/>
+    <text x="30" y="18" text-anchor="middle"
+          font-family="Segoe UI, Helvetica, Arial, sans-serif"
+          font-size="13" font-weight="700" fill="#ffffff">LIVE</text>
+  </g>
+</svg>
